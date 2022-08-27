@@ -1,6 +1,6 @@
 <h2 align="center"> Howdy there 👋 </h2>
 
-| 📚📚📚📚📚📚📚📚📚📚 |  📚📚📚📚📚📚📚📚📚📚  |  📜📜📜📜📜📜📜📜📜📜  |
+| 📚 |  📚 |  📜  |
 | ----------- | ----------- | ----------- |
 | [Lexicon](https://github.com/tabularelf/lexicon)| [Collage](https://github.com/tabularelf/Collage)| [function_execute](https://gist.github.com/tabularelf/287cf766c00fca09e13bbdd7a4fa0ab2) |
 | [audioExt](https://github.com/tabularelf/audioExt)| [Canvas](https://github.com/tabularelf/Canvas)| [Convert ds_grid/map/list to struct/array equivalents and vice versa](https://gist.github.com/tabularelf/547b62efbcb0beaa8e6478afae8e693f) |
