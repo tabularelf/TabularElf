@@ -5,12 +5,6 @@
 I'm TabularElf, an experienced programmer who mainly uses GameMaker.<br>
 I'm from Australia, and I love cats!<br>
 
-<h3>Programming Journey</h3>
-
-#
-
-I began my programming journey back when I was just 12 years old, and I got my very first laptop. Up to that point in my life, I had been using computers prior and always been fascinated in how computers worked, but never really understood them. As well as slightly intrigued in how games worked. I began by learning the basics of batch and visual basics on Windows 7. Mainly making small utilities from swapping your mouse buttons around for left-handed people to hiding entire files and folders. I didn't really expand my skillset up until I started playing games like Half-Life 2, Garry's Mod, Portal and Minecraft. At that point, I really wanted to make my own 2D infinite sandbox game. So I picked up GameMaker 8, which turned out to be slowly my most favourite game engine. It was never truly the fastest, and it lacked a lot of features that other game engines had. But it was really easy to just sit down and make something work. Over the past 10 years, I've been spending my time finetuning my skills in GameMaker, and slowly picking up other programming languages along the way. 
-
 #
 
 <h3>Hobbies</h3>
@@ -48,3 +42,9 @@ I began my programming journey back when I was just 12 years old, and I got my v
 #
 
 [![TabularElf's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabularelf&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>Programming Journey</h3>
+
+#
+
+I began my programming journey back when I was just 12 years old, and I got my very first laptop. Up to that point in my life, I had been using computers prior and always been fascinated in how computers worked, but never really understood them. As well as slightly intrigued in how games worked. I began by learning the basics of batch and visual basics on Windows 7. Mainly making small utilities from swapping your mouse buttons around for left-handed people to hiding entire files and folders. I didn't really expand my skillset up until I started playing games like Half-Life 2, Garry's Mod, Portal and Minecraft. At that point, I really wanted to make my own 2D infinite sandbox game. So I picked up GameMaker 8, which turned out to be slowly my most favourite game engine. It was never truly the fastest, and it lacked a lot of features that other game engines had. But it was really easy to just sit down and make something work. Over the past 10 years, I've been spending my time finetuning my skills in GameMaker, and slowly picking up other programming languages along the way. 
