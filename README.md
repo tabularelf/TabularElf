@@ -5,7 +5,7 @@
 I'm TabularElf, an experienced programmer who mainly uses GameMaker.<br>
 I'm from Australia, and I love cats!<br>
 
-<h3>Biography</h3>
+<h3>Programming Journey</h3>
 
 #
 
