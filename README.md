@@ -64,6 +64,8 @@ I began my programming journey back when I was just 12 years old, and I got my v
 <details>
 <summary><h2>I am referred to as</h2></summary>
 
+<h3>Preferred</h3>
+
 * TabularElf
 
 * Tab
@@ -79,6 +81,8 @@ I began my programming journey back when I was just 12 years old, and I got my v
 * Tablets
 
 * TubularElf
+
+<h3>Misc</h3>
 
 * TibularOlf
 
