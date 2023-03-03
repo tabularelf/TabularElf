@@ -62,7 +62,7 @@ I began my programming journey back when I was just 12 years old, and I got my v
 #
 
 <details>
-<summary><h2>I am referred to as:</h2></summary>
+<summary><h2>I am referred to as</h2></summary>
 
 * TabularElf
 
