@@ -58,3 +58,53 @@ I began my programming journey back when I was just 12 years old, and I got my v
 * Streaming
 
 * Art
+
+#
+
+<details>
+<summary><h2>I am referred to as:</h2></summary>
+
+* TabularElf
+
+* Tab
+
+* Elf
+
+* Tabby
+
+* Tabitha
+
+* Tabby the Cat
+
+* Tablets
+
+* TubularElf
+
+* TibularOlf
+
+* TubularRolf
+
+* TybularRofl
+
+* TabularAlf
+
+* Alf
+
+* Spectabular
+
+* Tablerone
+
+* Tablertwo
+
+* Tablermorethentwocuzicantcounthigher
+
+* Ular
+
+* Lare
+
+* Bula
+
+* Abu
+
+* 2 Spaces
+</details>
