@@ -82,6 +82,8 @@ I began my programming journey back when I was just 12 years old, and I got my v
 
 * TubularElf
 
+* Table Elf
+
 * Duck Tab
 
 <h3>Misc</h3>
@@ -113,4 +115,6 @@ I began my programming journey back when I was just 12 years old, and I got my v
 * Abu
 
 * 2 Spaces
+
+* Table Shelf
 </details>
