@@ -6,11 +6,12 @@
 
 | 📚📚📚📚📚📚📚📚 |  📚📚📚📚📚📚📚📚 |  📜📜📜📜📜📜📜📜  |
 | ----------- | ----------- | ----------- |
-| [Lexicon](https://github.com/tabularelf/lexicon) <br>Localization Library | [Collage](https://github.com/tabularelf/Collage) <br>Texture Page Builder/Manager| [function_execute](https://gist.github.com/tabularelf/287cf766c00fca09e13bbdd7a4fa0ab2) <br>Execute Functions/Methods with infinite arguments |
+| [Lexicon](https://github.com/tabularelf/lexicon) <br>Localization Library | [Collage](https://github.com/tabularelf/Collage) <br>Texture Page Builder/Manager| [function_execute](https://gist.github.com/tabularelf/c21c4f48ca3fd98e0e9d1a8cbb81c6a7) <br>Execute Functions/Methods with infinite arguments |
 | [Sonus](https://github.com/tabularelf/Sonus) <br> Advanced Audio System | [Canvas](https://github.com/tabularelf/Canvas) <br> Surface Caching System| [Convert ds_grid/map/list to struct/array equivalents and vice versa](https://gist.github.com/tabularelf/547b62efbcb0beaa8e6478afae8e693f)<br> Self-explanatory |
 | [Slice](https://github.com/tabularelf/Slice) <br> Layer Wrapper| [Lens](https://github.com/tabularelf/Lens)<br>Camera Wrapper| [array_2d](https://gist.github.com/tabularelf/ea7901007179d48ce2f61e6e2fe026da) <br>Brings back 2D arrays|
 | [Architect](https://github.com/tabularelf/Architect)<br>Build Script Manager for GameMaker| [SimThreads](https://github.com/tabularelf/SimThreads)<br> Green Thread implementation|
 | [DHook](https://github.com/tabularelf/DHook) <br>Discord Webhooks integration| [Gravatar-For-GameMaker](https://github.com/tabularelf/Gravatar-For-GameMaker)<br> Self-explanatory|
+| [Stickers](https://github.com/tabularelf/Stickers) <br>Vertex buffer-based decal solution for GameMaker 2022 LTS|
 
 #
 
