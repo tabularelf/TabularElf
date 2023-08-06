@@ -87,6 +87,8 @@ I began my programming journey back when I was just 12 years old, and I got my v
 
 * Duck Tab
 
+* TaBoolean
+
 <h3>Misc</h3>
 
 * TibularOlf
@@ -128,4 +130,6 @@ I began my programming journey back when I was just 12 years old, and I got my v
 * TarbacularElf
 
 * Table Shelf
+
+* Taboo
 </details>
