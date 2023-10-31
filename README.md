@@ -10,7 +10,7 @@
 | [Sonus](https://github.com/tabularelf/Sonus) <br> Advanced Audio System | [Canvas](https://github.com/tabularelf/Canvas) <br> Surface Caching System| [Convert ds_grid/map/list to struct/array equivalents and vice versa](https://gist.github.com/tabularelf/547b62efbcb0beaa8e6478afae8e693f)<br> Self-explanatory |
 | [Slice](https://github.com/tabularelf/Slice) <br> Layer Wrapper| [Lens](https://github.com/tabularelf/Lens)<br>Camera Wrapper| [array_2d](https://gist.github.com/tabularelf/ea7901007179d48ce2f61e6e2fe026da) <br>Brings back 2D arrays|
 | [Architect](https://github.com/tabularelf/Architect)<br>Build Script Manager for GameMaker| [SimThreads](https://github.com/tabularelf/SimThreads)<br> Green Thread implementation| [current_step](https://gist.github.com/tabularelf/a54f338b1cc82f99e7a35cf0ad6f18cb) <br> Accurrate frame counter
-| [Gravatar-For-GameMaker](https://github.com/tabularelf/Gravatar-For-GameMaker)<br> Self-explanatory|
+| [Gravatar-For-GameMaker](https://github.com/tabularelf/Gravatar-For-GameMaker)<br> Gravatar Integration in GameMaker|
 | [Stickers](https://github.com/tabularelf/Stickers) <br>Vertex buffer-based decal solution for GameMaker 2022 LTS| [Multiclient](https://github.com/tabularelf/MultiClient)<br> Launching multiple clients directly from the IDE!|
 
 #
