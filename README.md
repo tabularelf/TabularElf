@@ -95,6 +95,8 @@ I began my programming journey back when I was just 12 years old, and I got my v
   
 * Tabernacular Elfinator
 
+* TabulorElf
+
 <h3>Misc</h3>
 
 * TibularOlf
@@ -144,6 +146,4 @@ I began my programming journey back when I was just 12 years old, and I got my v
 * Tabularity
 
 * StabularElf
-
-* TabulorElf
 </details>
