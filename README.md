@@ -15,7 +15,6 @@
 
 #
 
-![Stats](./profile/stats.svg)<br>
 
 #
 
