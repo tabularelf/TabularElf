@@ -15,9 +15,9 @@
 
 #
 
-![Stats](./profile/stats.svg)
+![Stats](./profile/stats.svg)<br>
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 
 #
 
