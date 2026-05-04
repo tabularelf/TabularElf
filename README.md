@@ -98,6 +98,8 @@ I began my programming journey back when I was just 12 years old, and I got my v
 
 * TabularElf with a weird font
 
+* Tabulf
+
 <h3>Misc</h3>
 
 * TibularOlf
@@ -151,4 +153,8 @@ I began my programming journey back when I was just 12 years old, and I got my v
 * TaBaba Yaga
 
 * Tubalarelf
+
+* TabularRasa
+
+* Tabamargarightaville
 </details>
