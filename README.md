@@ -43,21 +43,11 @@ I began my programming journey back when I was just 12 years old, and I got my v
 
 #
 
-* Photography
-
-* Video editing
-
-* Music editing
-
-* Photo editing
-
-* Web Development
-
-* General Programming
-
 * Streaming
-
-* Art
+* Photography
+* Video editing
+* Music making
+* LEGO building
 
 #
 
